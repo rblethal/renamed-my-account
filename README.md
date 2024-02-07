@@ -1,9 +1,5 @@
 # Welcome folks!
 
-I'm Raviraj Chougale. I don't maintain this account anymore. Please click on new account for repos.
+I'm Raviraj Chougale. I don't maintain this account anymore.
 
-```mermaid
-graph LR
-A[Old account: rblethal] ----> B[New account: rainmaker-9]
-click B "https://github.com/rainmaker-9" "rainmaker-9"
-```
+My new account: [rainmaker-9](https://github.com/rainmaker-9)
